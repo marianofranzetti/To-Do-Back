@@ -1,0 +1,76 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\actores\4cb4d665-47a1-4233-886a-1edd9f9f29e7.jpeg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>ToDoAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/ToDoAPI</BasePath>
+      <RelativePath>actores/4cb4d665-47a1-4233-886a-1edd9f9f29e7.jpeg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>i5wh76jwvi</Fingerprint>
+      <Integrity>Biw91621SSlheZ9AGZ+C+7fflIlorVBEj9PRIE6/t4s=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\actores\4cb4d665-47a1-4233-886a-1edd9f9f29e7.jpeg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\actores\c0f07cd5-c85d-4ff1-b9d8-84f2052a40fa.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>ToDoAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/ToDoAPI</BasePath>
+      <RelativePath>actores/c0f07cd5-c85d-4ff1-b9d8-84f2052a40fa.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>rczbaz3tt8</Fingerprint>
+      <Integrity>u60E+KojJgMVzqiu9UyeFi8Vb9nFwxTZe/OXdQrnjaE=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\actores\c0f07cd5-c85d-4ff1-b9d8-84f2052a40fa.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\peliculas\0fe934e5-d7ab-4fff-993f-c8c6d4ead12f.jpeg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>ToDoAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/ToDoAPI</BasePath>
+      <RelativePath>peliculas/0fe934e5-d7ab-4fff-993f-c8c6d4ead12f.jpeg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>fsa66ni47h</Fingerprint>
+      <Integrity>4eEp/nb0dgTg0quC8Vf6cEkgl+GoqF/JgmnzV93zv7I=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\peliculas\0fe934e5-d7ab-4fff-993f-c8c6d4ead12f.jpeg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\peliculas\5f0883ab-4d85-44a4-8046-740369cbadff.jpeg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>ToDoAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/ToDoAPI</BasePath>
+      <RelativePath>peliculas/5f0883ab-4d85-44a4-8046-740369cbadff.jpeg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>fsa66ni47h</Fingerprint>
+      <Integrity>4eEp/nb0dgTg0quC8Vf6cEkgl+GoqF/JgmnzV93zv7I=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\peliculas\5f0883ab-4d85-44a4-8046-740369cbadff.jpeg'))</OriginalItemSpec>
+    </StaticWebAsset>
+  </ItemGroup>
+</Project>

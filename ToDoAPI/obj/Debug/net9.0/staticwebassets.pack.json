@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta\\To-Do-Back\\ToDoAPI\\wwwroot\\actores\\4cb4d665-47a1-4233-886a-1edd9f9f29e7.jpeg",
+      "PackagePath": "staticwebassets\\actores\\4cb4d665-47a1-4233-886a-1edd9f9f29e7.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta\\To-Do-Back\\ToDoAPI\\wwwroot\\actores\\c0f07cd5-c85d-4ff1-b9d8-84f2052a40fa.jpg",
+      "PackagePath": "staticwebassets\\actores\\c0f07cd5-c85d-4ff1-b9d8-84f2052a40fa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta\\To-Do-Back\\ToDoAPI\\wwwroot\\peliculas\\0fe934e5-d7ab-4fff-993f-c8c6d4ead12f.jpeg",
+      "PackagePath": "staticwebassets\\peliculas\\0fe934e5-d7ab-4fff-993f-c8c6d4ead12f.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta\\To-Do-Back\\ToDoAPI\\wwwroot\\peliculas\\5f0883ab-4d85-44a4-8046-740369cbadff.jpeg",
+      "PackagePath": "staticwebassets\\peliculas\\5f0883ab-4d85-44a4-8046-740369cbadff.jpeg"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.ToDoAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.ToDoAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.ToDoAPI.props",
+      "PackagePath": "build\\ToDoAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.ToDoAPI.props",
+      "PackagePath": "buildMultiTargeting\\ToDoAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.ToDoAPI.props",
+      "PackagePath": "buildTransitive\\ToDoAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

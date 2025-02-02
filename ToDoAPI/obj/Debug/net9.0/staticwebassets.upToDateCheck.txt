@@ -1,0 +1,4 @@
+wwwroot\actores\4cb4d665-47a1-4233-886a-1edd9f9f29e7.jpeg
+wwwroot\actores\c0f07cd5-c85d-4ff1-b9d8-84f2052a40fa.jpg
+wwwroot\peliculas\0fe934e5-d7ab-4fff-993f-c8c6d4ead12f.jpeg
+wwwroot\peliculas\5f0883ab-4d85-44a4-8046-740369cbadff.jpeg
